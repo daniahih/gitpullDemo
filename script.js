@@ -1,2 +1,2 @@
-let message = "Welcome Madian";
+let message = "Welcome Maduin";
 console.log(message);
